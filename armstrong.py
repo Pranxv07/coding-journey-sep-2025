@@ -6,4 +6,4 @@ for i in a:
 if d==int(a):
     print("is narcissistic")
 else:
-    print("nono")
+    print("nono it is not")
